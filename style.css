@@ -1,0 +1,31 @@
+
+.section_1{
+    color: green;
+    margin: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 12px;
+}
+h2{
+    font-size: 18px;
+    
+}
+p{
+    font-size: 14px;
+}
+.section_2{
+    color: red;
+    margin: 20px;
+    border: 2px dotted rgb(0, 208, 255);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.section_3{
+    color: blue;
+    margin: 20px;
+    border: 2px dashed rgb(255, 0, 230);
+    border-radius: 10px;
+    padding: 12px;
+
+}
